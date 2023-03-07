@@ -36,6 +36,8 @@ fig.suptitle("Mi figura dos")
 
 plt.tight_layout()
 
+print("figuras:", plt.get_fignums())
+
 plt.show()
 
 
