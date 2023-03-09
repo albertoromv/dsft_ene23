@@ -1,0 +1,34 @@
+pwd
+
+ls
+
+ls -l
+
+cd
+
+cd "ruta"
+
+cd ..
+
+cd --
+
+mkdir nombredirectorio
+
+cat archivo.txt
+
+head archivo.txt
+
+tail archivo.txt
+
+nano archivo.txt
+ctrl + O para escribir
+ctrl + X para salir
+
+cp archivo ruta
+mv archivo ruta
+
+rm archivo
+
+rm -d directorio
+
+
